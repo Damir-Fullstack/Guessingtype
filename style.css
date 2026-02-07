@@ -1,4 +1,6 @@
 div{
 border: black solid 1px;
 min-width: 100px;
+min-height: 1.5em;
+width: fit-content;
 }
